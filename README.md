@@ -6,7 +6,7 @@ An attempt at recreating the data pipeline for the [Multilingual Visual Document
 
 Ideally, we want a lot of PDFs, PPTs and rendered HTMLs, all in Arabic, we want them as messy as possible ideally to reflect real life data.
 
-This is everything I have so far for the data pipeline, which will rapidly evolve very quickly, but for now, to gather PDFs, this is what I did:
+This is everything I have so far for the data pipeline, which will rapidly evolve, but for now, to gather PDFs, this is what I did:
 
 1. Rely on Google for most of the heavy work, my query looks like this: `filetype:pdf lang:ar [TOPIC]`
 2. Get seed topics from [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Vital_articles/Level/2)
