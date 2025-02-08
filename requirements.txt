@@ -1,0 +1,10 @@
+https://download.pytorch.org/whl/cpu/torch-2.3.1%2Bcpu-cp312-cp312-linux_x86_64.whl
+wordllama
+instructor
+ipykernel
+ipywidgets
+tqdm
+model2vec[distill]
+python-dotenv
+serpapi
+requests
