@@ -8,3 +8,5 @@ model2vec[distill]
 python-dotenv
 serpapi
 requests
+pymupdf
+PyArabic
